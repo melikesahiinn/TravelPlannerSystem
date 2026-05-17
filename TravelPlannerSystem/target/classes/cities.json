@@ -1,0 +1,23 @@
+[
+  {
+    "name": "Ankara",
+    "population": 5600000,
+    "area": 25142,
+    "currentTemperature": 22,
+    "currentWeatherState": "SUNNY"
+  },
+  {
+    "name": "Istanbul",
+    "population": 16000000,
+    "area": 5343,
+    "currentTemperature": 18,
+    "currentWeatherState": "RAINY"
+  },
+  {
+    "name": "Izmir",
+    "population": 4400000,
+    "area": 11973,
+    "currentTemperature": 27,
+    "currentWeatherState": "CLOUDY"
+  }
+]
